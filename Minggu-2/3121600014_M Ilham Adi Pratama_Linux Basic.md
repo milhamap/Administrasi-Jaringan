@@ -122,44 +122,26 @@ apt --help
 
 ![](images/7.jpeg)
 
-apt update : Memperbarui daftar paket dan metadata yang tersedia di repository.
-
-apt upgrade : Menginstall paket-paket baru yang tersedia dan mengupgrade paket yang sudah terinstall.
-
-apt install : Menginstall paket baru.
-
-apt remove : Menghapus paket yang sudah terinstall.
-
-apt autoremove : Menghapus paket-paket yang tidak lagi dibutuhkan oleh sistem.
-
-apt search : Mencari paket yang tersedia di repository.
-
-apt show : Menampilkan informasi detail tentang paket yang tersedia di repository.
-
-apt list : Menampilkan daftar paket yang sudah terinstall.
-
-apt full-upgrade : Menginstall paket-paket baru dan mengupgrade paket-paket yang sudah terinstall dengan menyelesaikan semua ketergantungan (dependencies) yang dibutuhkan.
-
-list - menampilkan daftar paket berdasarkan nama paket 
-
-search - mencari dalam deskripsi paket 
-
-show - menampilkan detail paket
-
-install - menginstall paket 
-
-reinstall - menginstall ulang paket 
-
-remove - menghapus paket 
-
-autoremove - menghapus otomatis semua paket yang tidak terpakai 
-
-update - memperbarui daftar paket yang tersedia 
-
-upgrade - mengupgrade sistem dengan menginstal/mengupgrade paket-paket 
-
-full-upgrade - mengupgrade sistem dengan menghapus/menginstal/mengupgrade paket-paket 
-
-edit-sources - mengedit file informasi sumber
-
-satisfy - memenuhi string dependensi
+| Perintah | Keterangan |
+| -------- | --- |
+| apt update | Memperbarui daftar paket dan metadata yang tersedia di repository.
+|apt upgrade | Menginstall paket-paket baru yang tersedia dan mengupgrade paket yang sudah terinstall.|
+| apt install | Menginstall paket baru. |
+| apt remove | Menghapus paket yang sudah terinstall. |
+| apt autoremove | Menghapus paket-paket yang tidak lagi dibutuhkan oleh sistem. |
+| apt search | Mencari paket yang tersedia di repository. |
+| apt show | Menampilkan informasi detail tentang paket yang tersedia di repository. |
+| apt list | Menampilkan daftar paket yang sudah terinstall. |
+| apt full-upgrade | Menginstall paket-paket baru dan mengupgrade paket-paket yang sudah terinstall dengan menyelesaikan semua ketergantungan (dependencies) yang dibutuhkan. |
+| list | menampilkan daftar paket berdasarkan nama paket | 
+| search | mencari dalam deskripsi paket |
+| show | menampilkan detail paket |
+| install | menginstall paket |
+| reinstall | menginstall ulang paket |
+| remove | menghapus paket |
+| autoremove | menghapus otomatis semua paket yang tidak terpakai |
+| update | memperbarui daftar paket yang tersedia |
+| upgrade | mengupgrade sistem dengan menginstal/mengupgrade paket-paket |
+| full-upgrade | mengupgrade sistem dengan menghapus/menginstal/mengupgrade paket-paket |
+| edit-sources | mengedit file informasi sumber |
+| satisfy | memenuhi string dependensi |

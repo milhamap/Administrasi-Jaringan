@@ -77,10 +77,4 @@ Lakukan konfigurasi pada file-file berikut ini:
 
     Demikian pembahasan singkat terkait dengan konfigurasi DNS server pada distro Linux Debian 
 
-untuk dokumentasi cara konfigurasi dapat dilihat pada vidio berikut
-
-
-<!-- add vidio mkv pada markdown diambil dari local -->
-<video width="100%" controls>
-  <source src="./video/Dokumentasi_Setup_DNS.mkv" type="video/mp4">
-</video>
+Untuk dokumentasi cara konfigurasi dapat dilihat [Here](https://drive.google.com/file/d/1zYc9UAdQtFJfjQqx_onJxPBqFKj8q1wC/view?usp=sharing)

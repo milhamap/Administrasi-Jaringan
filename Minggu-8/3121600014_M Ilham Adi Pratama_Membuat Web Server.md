@@ -4,8 +4,8 @@
 | -------- | --- |
 | Nama | Muhammad Ilham Adi Pratama |
 | NRP  | 3121600014 |
-| Kelas| 2 D4 IT A |
 | Kelompok | 3 |
+| Kelas| 2 D4 IT A |
 | Dosen| Dr. Ferry Astika Saputra ST, M.Sc.|
 
 ## Membuat Web Server

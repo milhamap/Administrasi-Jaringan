@@ -1,6 +1,6 @@
 # MAIL SERVER
-- Dimas Fahrul Putra Arismanto
-- Muhammad Ilham Adi Pratama
+- Dimas Fahrul Putra Arismanto 
+- Muhammad Ilham Adi Pratama (3121600014)
 - Awan Abdillah Akbar Dhiya'ulhaq
 - Khozinatul Asror
 
